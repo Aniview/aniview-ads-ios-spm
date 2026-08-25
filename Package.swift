@@ -34,7 +34,7 @@ let package = Package(
             name: "AniviewAdsSDK",
             url:
                 "https://github.com/Aniview/aniview-ads-sdk-ios-spm/releases/download/v\(artifactVersion)/AniviewAdsSDK.zip",
-            checksum: "PLACEHOLDER_CHECKSUM"  // TODO: Replace after first xcframework build
+            checksum: "dbe2fd84fce0531f13b137dbb2c76a4afc93b9a98a4e52e0989578a29ba8d5d2"
         )
     ]
 )
